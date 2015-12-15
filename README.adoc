@@ -1,0 +1,11 @@
+polymer.paper.input
+-------------------
+
+Polymer Paper Input bundled element markup functions
+
+
+# usage
+
+link:http://clojars.org/polymer/paper[image:http://clojars.org/polymer/paper/latest-version.svg[]]
+
+
